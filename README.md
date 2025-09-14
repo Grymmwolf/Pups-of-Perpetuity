@@ -1,11 +1,14 @@
-Tired of puppers going belly-up because Kyle “forgot” to refill the bowl again?  
+# Grymm’s Pups of Perpetuity
+
+Tired of puppers going belly-up because Kyle (or whatever kennel worker) “forgot” to refill the bowl again?  
 
 Me too! Grymm’s Pups of Perpetuity keeps dogs hungry-but-alive, so the only thing dying in your village is Kyle’s credibility.
 
 
 ## Features
 
-- **Pets never starve to death.** Dogs can still get hungry and they still take normal combat damage, but **they do not lose health from hunger**. They will, however, bark at you until you feed them. Just like in real life! 
+- **Pets never starve to death.** Dogs can still get hungry and they still take normal combat damage, but **they do not lose health from hunger**. 
+- **Kyle-proof.** They’ll still bark at you until you feed them. Just like real life!
 
 ---
 
@@ -20,7 +23,7 @@ Result: Dogs live. Kyle still Kyle.
 ## Credits
 
 - Mod by **Grymm**.
-- Kyle reference from [SerBucky](https://www.youtube.com/channel/UCKgkufG1zPWOac-GBkrtRgA) (Though I take credit for naming/reimagining Kyle)
+- Kyle reference from [SerBucky](https://www.youtube.com/channel/UCKgkufG1zPWOac-GBkrtRgA) (Though I take full credit for naming/reimagining Kyle)
 - Powered by **BepInEx**, **Harmony**, and a need to avoid depression brought on by starving puppers.
 
 ---
@@ -37,7 +40,7 @@ Result: Dogs live. Kyle still Kyle.
 5. Copy the DLL to:
    ```text
    <ASKA install path>\BepInEx\plugins\GrymmsBuilderBuddy.dll
-6. Start the game and get creative :) 
+6. Start the game and long live the puppers! :) 
 
 ---
 
