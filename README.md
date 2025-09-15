@@ -1,5 +1,7 @@
 # Grymm’s Pups of Perpetuity
 
+A simple QOL mod for the game ASKA.  
+
 Tired of puppers going belly-up because Kyle (or whatever kennel worker) “forgot” to refill the bowl again?  
 
 Me too! Grymm’s Pups of Perpetuity keeps dogs hungry-but-alive, so the only thing dying in your village is Kyle’s credibility.
@@ -25,6 +27,13 @@ Result: Dogs live. Kyle still Kyle.
 - Mod by **Grymm**.
 - Kyle reference from [SerBucky](https://www.youtube.com/channel/UCKgkufG1zPWOac-GBkrtRgA) (Though I take full credit for naming/reimagining Kyle)
 - Powered by **BepInEx**, **Harmony**, and a need to avoid depression brought on by starving puppers.
+
+---
+
+## My ASKA Mods (so far) 
+
+[Grymm's Builder Buddy](https://github.com/Grymmwolf/GrymmsBuilderBuddy) - Build anywhere!  
+[Grymm’s Pups of Perpetuity](https://github.com/Grymmwolf/Pups-of-Perpetuity) - No more starving dogs! 
 
 ---
 
