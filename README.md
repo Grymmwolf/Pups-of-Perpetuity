@@ -1,6 +1,4 @@
-# Grymm’s Pups of Perpetuity
-
-A simple QOL mod for the game ASKA.  
+# Grymm’s Pups of Perpetuity - *A simple QOL mod for ASKA.*  
 
 Tired of puppers going belly-up because Kyle (or whatever kennel worker) “forgot” to refill the bowl again?  
 
