@@ -43,7 +43,7 @@ Result: Dogs live. Kyle still Kyle.
 2. Extract the zip **directly into the ASKA game folder** (the same folder as `ASKA.exe`).
 3. Launch the game once, then close it.  
    This lets BepInEx generate its folders and DLLs.4. Download the latest mod release from here Release
-4. Download the latest **Grymm’s Builder Buddy** from the [Releases](../../releases) page.
+4. Download the latest **Pups of Perpetuity** from the [Releases](../../releases) page.
 5. Copy the DLL to:
    ```text
    <ASKA install path>\BepInEx\plugins\GrymmsBuilderBuddy.dll
