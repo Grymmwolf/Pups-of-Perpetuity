@@ -4,6 +4,7 @@ Tired of puppers going belly-up because Kyle (or whatever kennel worker) “forg
 
 Me too! Grymm’s Pups of Perpetuity keeps dogs hungry-but-alive, so the only thing dying in your village is Kyle’s credibility.
 
+![Screenshot](GPP.png)
 
 ## Features
 
